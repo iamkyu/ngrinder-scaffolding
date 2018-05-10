@@ -1,0 +1,5 @@
+ngrinder-scaffolding
+====================
+
+SVN ignore like .gitignore
+$ svn propset svn:ignore -RF /root/svn-ignore.txt . [dot for current dir]
