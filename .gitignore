@@ -1,0 +1,7 @@
+.idea
+*.iml
+.DS_Store
+build
+out
+.gradle
+*-default.yml
