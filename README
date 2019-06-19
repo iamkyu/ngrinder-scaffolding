@@ -3,3 +3,6 @@ ngrinder-scaffolding
 
 SVN ignore like .gitignore
 $ svn propset svn:ignore -RF /root/svn-ignore.txt . [dot for current dir]
+
+Gradle 버전
+https://github.com/iamkyu/ngrinder-scaffolding/tree/feature/gradle-version
